@@ -25,11 +25,15 @@
 - `README.md`  
 
 ## Source of Data
-- https://editorial.rottentomatoes.com/guide/essential-2000s-movies/
+- Movies: https://editorial.rottentomatoes.com/guide/essential-2000s-movies/
+- Box Office Grossing: https://www.imdb.com
+- Content Ratings: https://www.motionpictures.org
 
 ## How to Run the Project  
 1. Import `rt_movies_database.sql` in MySql
 2. Open `MoviesDB.ipynb` in Jupyter Notebooks
+
+**OR simply click on `MoviesDB.ipynb` to view my code and outputs :)**
 
 ## 👓 Author:
 Osmar - LinkedIn: www.linkedin.com/in/osmardramirez
